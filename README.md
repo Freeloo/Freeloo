@@ -3,4 +3,4 @@
 - Actually, I write a little OS kernel from scratch using C
 - I can use C, C# and a little of C++ (and AppleScript but this language is a meme)
 - 😄 Pronouns: 
-[Lanuages :](https://github-readme-stats.vercel.app/api/top-langs/?username=Freeloo&hide=html&theme=graywhite&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freeloo&hide=html&theme=graywhite&layout=compact&hide_border=true"/>
