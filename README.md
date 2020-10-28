@@ -5,4 +5,4 @@
 - 😄 Pronouns: It (no, seriously, you will never know)
 - You can reach me [by mail](mailto:freeloo.public@gmail.com) but I am useless
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freeloo&hide=html&theme=graywhite&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Freeloo&show_icons=true&hide_borders=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Freeloo&show_icons=true"/>
