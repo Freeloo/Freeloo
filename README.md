@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- Actually, my main project is a little OS kernel, that i write from scratch using C and ASM for i386 CPU
-- I can use C, C# and a little of C++ (and AppleScript but this language is a meme)
-- I love the free software philosophy !
-- The only closed source project to which I contribute is a game with some friend (here is our <a href="https://discord.gg/5C39sY5ye4"> discord </a>)
-- 😄 Pronouns: It (no, seriously, you will never know)
-- You can reach me [by mail](mailto:freeloo.public@gmail.com) but I am useless
+- Actually, my main project is a little Sheel writen in C (BliSh), but i didn't have a lot of time to programming these days
+- I can use C, C#, a little of C++ (and AppleScript but this language is a meme) and i learn i386 Assembly
+- FSF & free software philosophy ❤😍
+- 😄 Pronouns: She/Her
+- You can reach me [by mail](mailto:freeloo.public@gmail.com) (but I am useless)
 
 **Some stats :**
 
