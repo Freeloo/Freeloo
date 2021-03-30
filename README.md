@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Actually, i learn playing bass guitar so I don't have  a lot the time to programming
+- It is time to continue Blumen ! 
 - I can use C, C#, a little of C++ (and AppleScript but this language is a meme) and i learn i386 Assembly
 - FSF & free software philosophy 
 - 😄 Pronouns: She/Her
