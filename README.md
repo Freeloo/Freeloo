@@ -10,5 +10,5 @@
 **Some stats :**
 
 
-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freeloo&hide=html&theme=dark&layout=compact"/>
-- <img src="https://github-readme-stats.vercel.app/api?username=Freeloo&theme=dark&show_icons=true"/>
+- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freeloop1642&hide=html&theme=dark&layout=compact"/>
+- <img src="https://github-readme-stats.vercel.app/api?username=Freeloop1642&theme=dark&show_icons=true"/>
